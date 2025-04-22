@@ -29,7 +29,7 @@ This repo contains categorized solutions to coding problems I’ve solved during
 
 ## 🌐 Online Profiles:
 - 🔗 [Codeforces](https://codeforces.com/profile/YourProfileHere)
-- 🔗 [LeetCode](https://leetcode.com/YourProfileHere](https://leetcode.com/problemset/](https://leetcode.com/u/Abdullal-Al-Zubaer/)
+- 🔗 [LeetCode](https://leetcode.com/YourProfileHere](https://leetcode.com/problemset/](https://leetcode.com/u/Abdullal-Al-Zubaer)
 
 
 ---
